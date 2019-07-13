@@ -4,3 +4,4 @@ This repository demonstrates the different methods for tracing fan genres, respo
 This repository is currently under construction, but is published for an article under review at <em>The Journal of Writing Analytics</em>.
 
 Created by Cara Marta Messina
+Northeastern University
